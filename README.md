@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
         <img width="800" src="logo-light.svg" alt="pg_duckdb logo" />
